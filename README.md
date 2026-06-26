@@ -9,3 +9,7 @@ pip install faker
 pip install hashlib
 
 ```
+```
+cd fbc
+python fbc.py
+```
